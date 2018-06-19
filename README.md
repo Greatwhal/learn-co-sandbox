@@ -9,3 +9,22 @@ The work you do in the Sandbox will be saved from lesson to lesson, and is autom
 Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
 
 To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+
+def about_me
+puts "My Name is Ryen-Amirah"
+puts "I grew up in Las Vegas"
+puts "Im 14 years old"
+puts "My favorite food is Mediterranean food"
+end
+
+irb
+def print_welcome
+puts "welcome!"
+end
+
+your_name = shannon 
+def say_hello
+Puts "hello # {your name}"
+end
+
+say_hello

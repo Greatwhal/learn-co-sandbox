@@ -1,0 +1,6 @@
+def num_4
+  "sam"== "cat"
+  elsif "matt"=="matt"
+else
+  puts "whatever"
+end 

@@ -1,0 +1,6 @@
+authenticate_or_request_with_http_basic
+def say_hello
+your_name = "shannon"
+  puts"hello#{your_name}."
+end
+say_hello
